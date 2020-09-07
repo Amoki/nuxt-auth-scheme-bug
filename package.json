@@ -1,0 +1,17 @@
+{
+  "name": "scheme",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth-next": "^5.0.0-1595976864.509d9d6",
+    "@nuxtjs/axios": "^5.12.2",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {}
+}
